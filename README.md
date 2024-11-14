@@ -4,11 +4,11 @@
 ## License
 The add-on's binaries, as well as its textures and code are licensed under the **GPLv3 license**.
 
-Feel free to use the add-on in any modpacks. You are allowed to use it, you do not need to ask for permission, in fact permission requests will usually be ignored. When using the mod and add-on, please use the Curse/Curseforge, Modrinth, or GitHub download and do not rehost the files.
-
-Any modpack which uses Dragon Mounts 3 takes full responsibility for user support queries.
-
-For anyone else, we only support official builds from Curse/Curseforge, and GitHub, not custom built jars. We also do not take bug reports for outdated builds of Minecraft.
+CAN modify, copy and distribute this addon.
+CAN use it privately or for commercial use.
+CAN'T change the license of your modified version.
+CAN'T make the modified source code closed.
+HAVE TO indicate any changes in the modified version.
 
 ## Dragon Mounts 3: Bedrock Edition
 The add-on is based off of the Java Edition of Dragon Mounts 2 mod by TheRPGAdventurer, for example: different breeds of dragons, each dragon needs the corresponding dragon egg hatching, the block dragon egg needs to right-click (touch screen operation for click on the screen dragon egg) to activate the dragon egg to start hatching, each dragon can be cut by the player using a diamond scissors to get the dragon scale. Dragon Scales can be synthesized into dragon scale equipment and so on.
