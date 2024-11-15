@@ -16,8 +16,6 @@ The add-on is based off of the Java Edition of Dragon Mounts 2 mod by TheRPGAdve
 ## Dragon Mounts 3 Credits:
 - MysticLintha - Lead author of Dragon Mounts 3
 - HermitIsla - Developer
-- Moaswies - New and improved Aether textures
-- bltsbb - New and improved Amulet textures
 - TheRPGAdventurer - Former author of Dragon Mounts 2
 - BarracudaATA - Open sourcing the mod to let others create projects under the Dragon Mounts name
 - Tomanex - Dragon Mounts Team Founder and Beta Tester
