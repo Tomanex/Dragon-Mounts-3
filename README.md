@@ -1,5 +1,5 @@
 # [Dragon Mounts 3](https://www.curseforge.com/minecraft-bedrock/addons/dragon-mounts-3)
-**Dragon Mounts 3: Bedrock Edition** is the official bedrock port of DM3 on Bedrock Edition. Created by HermitIsla, The add-on is about making useless ender dragon eggs hatcheable. You can tame the dragon like a pet, make it ride for you and soar in the skies. NOW on Bedrock!
+Dragon Mounts 3: Bedrock is the official bedrock port on Bedrock Edition. Created by HermitIsla, The add-on is about making useless ender dragon eggs hatcheable. You can tame the dragon like a pet, make it ride for you and soar in the skies. NOW on Bedrock!
 
 ## License
 The add-on's binaries, as well as its textures and code are licensed under the **GPLv3 license**.
