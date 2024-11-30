@@ -12,7 +12,7 @@ The add-on's binaries, as well as its textures and code are licensed under the *
 - You HAVE TO indicate any changes in the modified version.
 
 ## Dragon Mounts 3: Bedrock Edition
-The add-on is based off of the Java Edition of Dragon Mounts 2 mod by TheRPGAdventurer, for example: different breeds of dragons, each dragon needs the corresponding dragon egg hatching, the block dragon egg needs to right-click (touch screen operation for click on the screen dragon egg) to activate the dragon egg to start hatching, each dragon can be cut by the player using a diamond scissors to get the dragon scale. Dragon Scales can be synthesized into dragon scale equipment and so on.
+The add-on is based off of the Java Edition of Dragon Mounts 2 mod by TheRPGAdventurer (Roy Svitz), for example: different breeds of dragons, each dragon needs the corresponding dragon egg hatching, the block dragon egg needs to right-click (touch screen operation for click on the screen dragon egg) to activate the dragon egg to start hatching, each dragon can be cut by the player using a diamond scissors to get the dragon scale. Dragon Scales can be synthesized into dragon scale equipment and so on.
 
 ## Dragon Mounts 3 Credits:
 - HermitIsla - Lead Author of DM3
